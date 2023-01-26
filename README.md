@@ -2,6 +2,7 @@
 
 - 🌱 I'm currently learning more about the vast world of Software Development
 - 👨‍💻 My knowledges: JavaScript, HTML, CSS, Kotlin, AWS and Google Cloud
+- 📫 How to reach me: thiagomirp@gmail.com
 - ⚡ Fun fact: Really fan of souls like game(Elden Ring)
 
 
