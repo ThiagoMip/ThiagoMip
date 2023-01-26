@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello my friend, I'm Thiago 👋
+
+- 🌱 I'm currently learning more about the vast world of Software Development
+- 👨‍💻 My knowledges: JavaScript, HTML, CSS, AWS and Google Cloud
+- ⚡ Fun fact: Really fan of souls like game(Elden Ring)
+
+
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **ThiagoMip/ThiagoMip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
